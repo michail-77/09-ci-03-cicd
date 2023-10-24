@@ -57,6 +57,8 @@
 2. Разархивируйте, сделайте так, чтобы binary был доступен через вызов в shell (или поменяйте переменную PATH, или любой другой, удобный вам способ).
 3. Удалите из `apache-maven-<version>/conf/settings.xml` упоминание о правиле, отвергающем HTTP- соединение — раздел mirrors —> id: my-repository-http-unblocker.
 4. Проверьте `mvn --version`.
+![mvn --version](https://github.com/michail-77/09-ci-03-cicd/blob/main/image/mvn-version.PNG)
+
 5. Заберите директорию [mvn](./mvn) с pom.
 
 ### Основная часть
