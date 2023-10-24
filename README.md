@@ -26,7 +26,7 @@
 9. Сделайте скриншот успешного прохождения анализа, приложите к решению ДЗ.
 
 ## Решение
-![sonar2](https://github.com/michail-77/09-ci-03-cicd/blob/main/image/sonar2.PNG)
+![sonar2](https://github.com/michail-77/09-ci-03-cicd/blob/main/image/sonar2.JPG)
 
 
 ## Знакомство с Nexus
