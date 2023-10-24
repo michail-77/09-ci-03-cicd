@@ -45,6 +45,9 @@
 3. Проверьте, что все файлы загрузились успешно.
 4. В ответе пришлите файл `maven-metadata.xml` для этого артефекта.
 
+## Ответ:
+Файл [`maven-metadata.xml`](https://github.com/michail-77/09-ci-03-cicd/blob/main/maven-metadata.xml)
+
 ### Знакомство с Maven
 
 ### Подготовка к выполнению
@@ -61,6 +64,9 @@
 2. Запустите команду `mvn package` в директории с `pom.xml`, ожидайте успешного окончания.
 3. Проверьте директорию `~/.m2/repository/`, найдите ваш артефакт.
 4. В ответе пришлите исправленный файл `pom.xml`.
+
+## Ответ:
+ссылка на файл `pom.xml`: https://github.com/michail-77/09-ci-03-cicd/blob/main/mvn/pom.xml
 
 ---
 
