@@ -25,7 +25,7 @@
 8. Запустите анализатор повторно — проверьте, что QG пройдены успешно.
 9. Сделайте скриншот успешного прохождения анализа, приложите к решению ДЗ.
 
-## Решение
+## Ответ:
 ![sonar2](https://github.com/michail-77/09-ci-03-cicd/blob/main/image/sonar2.JPG)
 
 
@@ -48,6 +48,7 @@
 ## Ответ:
 Файл [`maven-metadata.xml`](https://github.com/michail-77/09-ci-03-cicd/blob/main/maven-metadata.xml)
 
+
 ### Знакомство с Maven
 
 ### Подготовка к выполнению
@@ -66,7 +67,7 @@
 4. В ответе пришлите исправленный файл `pom.xml`.
 
 ## Ответ:
-ссылка на файл `pom.xml`: https://github.com/michail-77/09-ci-03-cicd/blob/main/mvn/pom.xml
+Файл [`pom.xml`](https://github.com/michail-77/09-ci-03-cicd/blob/main/mvn/pom.xml)
 
 ---
 
