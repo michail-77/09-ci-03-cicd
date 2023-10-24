@@ -26,7 +26,8 @@
 9. Сделайте скриншот успешного прохождения анализа, приложите к решению ДЗ.
 
 ## Решение
-https://github.com/michail-77/mnt-homeworks/blob/MNT-video/09-ci-03-cicd/image/sonar.JPG
+![1](https://github.com/michail-77/mnt-homeworks/blob/MNT-video/09-ci-03-cicd/image/sonar.JPG)
+
 
 ## Знакомство с Nexus
 
